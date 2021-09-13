@@ -22,3 +22,9 @@
 
 # Intro
 
+# Coding
+## Precondition
+## Development process for client
+
+# What's included
+1.  [] Search bar, to look for heroes
